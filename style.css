@@ -4,6 +4,17 @@ body {
   margin: 0;
 }
 
+header {
+  text-align: center;
+}
 
+img {
+  
+    position: static;
+    right:  100px;
+}
 
+* details {
+   background-color: red;
+}
 
